@@ -1,0 +1,1 @@
+Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One, "Criando um Jogo do Detona Ralph com JavaScript".
